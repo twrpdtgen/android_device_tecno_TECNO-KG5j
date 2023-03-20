@@ -10,5 +10,4 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     TECNO-KG5j-user \
-    TECNO-KG5j-userdebug \
-    TECNO-KG5j-eng
+    TECNO-KG5j-userdebug 
