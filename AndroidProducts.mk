@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/TECNO-KG5j.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-KG5j-user \
-    omni_TECNO-KG5j-userdebug \
-    omni_TECNO-KG5j-eng
+    TECNO-KG5j-user \
+    TECNO-KG5j-userdebug \
+    TECNO-KG5j-eng
