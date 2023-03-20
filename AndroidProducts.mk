@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-KG5j.mk
+    $(LOCAL_DIR)/TECNO-KG5j.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_TECNO-KG5j-user \
