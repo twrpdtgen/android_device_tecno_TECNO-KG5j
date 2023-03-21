@@ -7,7 +7,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/TECNO-KG5j.mk
-
-COMMON_LUNCH_CHOICES := \
-    TECNO-KG5j-user \
-    TECNO-KG5j-userdebug 
